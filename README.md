@@ -30,12 +30,6 @@ Conducted exploratory data analysis on travel-related datasets to analyze custom
 
 ---
 
-### HR Employee Attrition EDA
-
-Analyzed HR employee attrition data to identify factors contributing to employee turnover. Explored relationships between attrition and variables such as salary, department, job satisfaction, overtime, and work experience using data visualization and statistical analysis techniques.
-
----
-
 ### HR Dataset EDA
 
 Performed exploratory data analysis on HR datasets to evaluate workforce demographics, employee performance, satisfaction levels, compensation, and departmental distributions. Generated actionable insights through data cleaning, aggregation, and visualization.
